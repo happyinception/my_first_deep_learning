@@ -23,7 +23,8 @@ git clone https://github.com/<my git address>/<project address>
 
 ## Step 2 : Anaconda Download and Install
 
-아래 Anaconda 페이지에서 최신 Anaconda Download 하고 인스톨 해주세요. 
+아래 Anaconda 페이지에서 
+각자 운영체제에 맞는 최신 설치파일을 받아 설치해주세요. 
 
 [Anaconda Download](https://www.anaconda.com/distribution/)
 
