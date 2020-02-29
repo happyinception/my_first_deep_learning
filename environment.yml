@@ -26,3 +26,4 @@ dependencies:
   - tensorflow==2.1.*
   - wandb==0.8.16
   - tensorflow-serving-api==2.0.*
+  - keras==2.3.*
