@@ -29,7 +29,7 @@ conda install git
 다운을 원하는 곳에서 아래 명령어를 실행해 my first deep learning repository를 다운받거나 
 아래 'git clone' 으로 다운받으면 자동으로 폴더가 생성 됩니다. 
 ```
-git clone https://github.com/<my git address>/<project address>
+git clone https://github.com/happyinception/my_first_deep_learning.git
 ```
 위의 'git clone' 방법이 잘 되지 않는 분은 
 [여기](https://github.com/happyinception/my_first_deep_learning/archive/master.zip )를 통해 다운 받은 zip 파일을 
@@ -43,15 +43,17 @@ cd my_first_deep_learning
 
 ## Step 3 : Conda Environment Setup
 
-제가 미리 만들어놓은 Conda Environment를 설치해 
-필요한 Python구성을 설정하고, Jupyter Notebook을 통해 진행 해볼게요.
-
-
-폴더로 이동
-
-환경 생성
-
-환경 시작
+제가 미리 만들어놓은 Conda Environment를 설치하겠습니다. 
+아래 명령어로 환경 구축을 한번 해놓으면, 이 강의를 위해 필요한 여러가지 Python 패키지, 라이브러리 들을 한번에 설치해 계속 사용이 가능합니다. 
+환경 내용은 'environment.yml'을 참조 해주세요. 
+```
+conda env create
+```
+위 명령어로 Python 환경을 자동으로 구성하고, 
+구성이 완료 되면 아래 명령어로 Python 환경을 시작 해보겠습니다. 
+```
+conda activate happy_inception
+```
 
 
 ## Step 4 : Jupyter Notebook
