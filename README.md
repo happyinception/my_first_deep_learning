@@ -1,6 +1,6 @@
 # My First Deep Learning 
 
-Happy Coding! Happy Inception 입니다.
+Happy Inception !!
 
 비디오 설명 보러 가기 : < insert Youtube address here >
 
