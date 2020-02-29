@@ -17,16 +17,29 @@ Happy Coding! Happy Inception 입니다.
 
 ## Step 2 : Course Materials Download
 
-앞으로 사용하게 될 Anaconda 환경 파일, Jupyter Notebook 강의 파일, 
+현재 Git repository 에서 앞으로 사용하게 될 Anaconda 환경 파일, Jupyter Notebook 강의 파일, 
 예제 코드들을 다운 받겠습니다. 
 
-다운을 원하는 곳에서 아래 명령어를 실행해 my first deep learning 리포지토리를 다운받거나 
-혹은 [여기](https://github.com/happyinception/my_first_deep_learning/archive/master.zip )를 클릭해주세요. 
+설치 된 Anaconda 에서 'Anaconda Prompt (Anaconda3)' 를 실행합니다. 
+실행된 prompt에서 아래 명령어로 'git'을 설치합니다. 
+```
+conda install git
+```
+
+다운을 원하는 곳에서 아래 명령어를 실행해 my first deep learning repository를 다운받거나 
+아래 'git clone' 으로 다운받으면 자동으로 폴더가 생성 됩니다. 
 ```
 git clone https://github.com/<my git address>/<project address>
 ```
-다운 받으셨으면 원하는곳에 압축을 풀어주세요. 
+위의 'git clone' 방법이 잘 되지 않는 분은 
+[여기](https://github.com/happyinception/my_first_deep_learning/archive/master.zip )를 통해 다운 받은 zip 파일을 
+원하는 곳에 압축을 풀어주세요. 
 
+repository가 생성된 폴더로 이동합시다. ( 각자 설치된 폴더로 이동 해주세요. 아래는 예시 입니다. )
+
+```
+cd my_first_deep_learning
+```
 
 ## Step 3 : Conda Environment Setup
 
