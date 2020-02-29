@@ -55,14 +55,31 @@ conda env create
 conda activate happy_inception
 ```
 
+환경을 종료하고 싶을때는 아래 명령을 이용하면 됩니다. 
+```
+conda deactivate 
+```
+
 
 ## Step 4 : Jupyter Notebook
 
 Jupyter Notebook 이라는 아주 유용한 대화형 컴퓨팅 환경으로 
 손쉽게 Deep Learning을 배워보겠습니다. 
 
-주피터 실행
+위의 단계까지 모두 성공 하셨다면 아래처럼 명령 프롬프트에 '(happy_inception)'이 보입니다.
+```
+(happy_inception)
+```
 
-브라우저 실행
+아래 명령어로 Jypter Notebook을 실행합니다. 
+```
+(happy_inception)jupyter notebook
+```
 
-Step 1 에서 받은 Jupyter Notebook 파일을 찾아 실행합니다. 
+실행이 완료 되면 본인의 default browser에서 Jupyter Notebook 이 실행되고 
+'my_first_deeplearning'아래에 존재하는 파일 시스템이 보입니다. 
+
+
+## Step 5 : My First Deep Learning
+
+Jupyter 환경에서 'my_first_deeplearning.python'실행
