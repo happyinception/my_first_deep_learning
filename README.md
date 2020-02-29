@@ -7,7 +7,15 @@ Happy Coding! Happy Inception 입니다.
 아래 설명에 따라 첫 Deep Learning model을 함께 만들어보세요. 
 
 
-## Step 1 : Course Materials Download
+## Step 1 : Anaconda Download and Install
+
+아래 Anaconda 페이지에서 
+각자 운영체제에 맞는 최신 설치파일을 받아 설치해주세요. 
+
+[Anaconda Download](https://www.anaconda.com/distribution/)
+
+
+## Step 2 : Course Materials Download
 
 앞으로 사용하게 될 Anaconda 환경 파일, Jupyter Notebook 강의 파일, 
 예제 코드들을 다운 받겠습니다. 
@@ -18,15 +26,6 @@ Happy Coding! Happy Inception 입니다.
 git clone https://github.com/<my git address>/<project address>
 ```
 다운 받으셨으면 원하는곳에 압축을 풀어주세요. 
-
-
-
-## Step 2 : Anaconda Download and Install
-
-아래 Anaconda 페이지에서 
-각자 운영체제에 맞는 최신 설치파일을 받아 설치해주세요. 
-
-[Anaconda Download](https://www.anaconda.com/distribution/)
 
 
 ## Step 3 : Conda Environment Setup
