@@ -10,7 +10,9 @@ Happy Inception !!
 ## Step 1 : Anaconda Download and Install
 
 아래 Anaconda 페이지에서 
-각자 운영체제에 맞는 최신 설치파일을 받아 설치해주세요. 
+각자 운영체제에 맞는 최신 설치파일( Python 3.7 version - 64 bit )로
+받아 설치해주세요.
+Python 2.7 과 32bit 운영체제에 대해서는 100% 호환되지 않을 수 있습니다.
 
 [Anaconda Download](https://www.anaconda.com/distribution/)
 
